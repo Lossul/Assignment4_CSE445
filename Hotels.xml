@@ -5,7 +5,7 @@
         <Name>Westin</Name>
         <Phone type="main">480-968-8885</Phone>
         <Phone type="toll-free">800-937-8461</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Habor">
             <Number>11</Number>
             <Street>E 7th St</Street>
             <City>Tempe</City>
@@ -40,7 +40,7 @@
     <Hotel>
         <Name>Hyatt Regency Phoenix</Name>
         <Phone type="main">602-252-1234</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor">
+        <Address NearstAirport="Phoenix Sky Habor">
             <Number>122</Number>
             <Street>N 2nd St</Street>
             <City>Phoenix</City>
@@ -63,7 +63,7 @@
         <Name>Ritz-Carlton Chicago</Name>
         <Phone type="main">312-266-1000</Phone>
         <Phone type="toll-free">800-621-6906</Phone>
-        <Address NearestAirport="O'Hare">
+        <Address NearstAirport="O'Hare">
             <Number>160</Number>
             <Street>E Pearson St</Street>
             <City>Chicago</City>
@@ -97,7 +97,7 @@
         <Name>Omni Shoreham Hotel</Name>
         <Phone type="main">202-234-0700</Phone>
         <Phone type="reservations">800-843-6664</Phone>
-        <Address NearestAirport="Reagan National">
+        <Address NearstAirport="Reagan National">
             <Number>2500</Number>
             <Street>Calvert St NW</Street>
             <City>Washington</City>
